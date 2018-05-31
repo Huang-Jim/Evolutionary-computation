@@ -7,7 +7,6 @@ We want to transfer the concept of data compression and reconstruction in visual
 - Less demanded data for reconstruction.
 - Less computation time.
 
-<iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/eCdiK1sR-mE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Implementatoin details
