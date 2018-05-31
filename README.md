@@ -7,8 +7,6 @@ We want to transfer the concept of data compression and reconstruction in visual
 - Less demanded data for reconstruction.
 - Less computation time.
 
-<iframe src="https://youtu.be/Uai3kH_Egsw" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ## Implementatoin details
 ### Basic idea
 Evolute into a specific audio file from zeros by adding multiple ractangular windows together directly in **time domain**.
