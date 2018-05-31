@@ -1,12 +1,13 @@
 ## Motivation
-[The Evolution of a Smile](https://github.com/peterbraden/genetic-lisa#the-evolution-of-a-smile)
+[The Evolution of a Smile](https://github.com/peterbraden/genetic-lisa#the-evolution-of-a-smile)   
 We want to transfer the concept of data compression and reconstruction in visual domain to acoustic domain.
 
 ## Target list
 - Higher quality of reconstruction than traditional method (Sinusoidal modeling).
 - Less demanded data for reconstruction.
-- Less computation time.
+- Less computation time.   
 
+[![Audio reconstruction](./src.jpg)](https://www.youtube.com/watch?v=eCdiK1sR-mE)
 
 
 ## Implementatoin details
