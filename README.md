@@ -30,4 +30,6 @@ Evolute into a specific audio file from zeros by adding multiple ractangular win
 3. Choose best 4 and discard worst 4 based on fitness function
 4. Crossover these 4 and also mutate these 4 to generate next generation
 ### Video demo 
-[![Audio reconstruction](./src.jpg)](https://www.youtube.com/watch?v=eCdiK1sR-mE)
+[![Audio reconstruction](./src.jpg)](https://www.youtube.com/watch?v=eCdiK1sR-mE) 
+### Compression degree
+Let demanded data decreases to (original samples)/(window length).
