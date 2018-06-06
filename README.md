@@ -10,7 +10,8 @@ We want to transfer the concept of data compression and reconstruction in visual
 
 ## Implementatoin details
 ### Basic idea
-Evolute into a specific audio file from zeros by adding multiple ractangular windows together directly in **time domain**.
+Evolute into a specific audio file from zeros by adding multiple ractangular windows together directly in **time domain**. 
+![Rac. window](./rac.jpg)
 ### Chromosomes
 - Position and length of window -> fixed window length and position
 - Magnitude of window
